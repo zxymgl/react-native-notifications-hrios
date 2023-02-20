@@ -1,6 +1,6 @@
 {
   "name": "react-native-notifications-ios",
-  "version": "4.3.3",
+  "version": "1.0.0",
   "description": "Advanced Push Notifications (Silent, interactive notifications) for iOS & Android",
   "license": "MIT",
   "keywords": [
@@ -76,9 +76,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-notifications.git"
+    "url": "https://github.com/zxymgl/react-native-notifications-hrios.git"
   },
-  "homepage": "https://github.com/wix/react-native-notifications",
+  "homepage": "https://github.com/zxymgl/react-native-notifications-hrios.git",
   "bugs": {
     "url": "https://github.com/wix/react-native-notifications/issues"
   },
